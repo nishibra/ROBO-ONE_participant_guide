@@ -1,5 +1,5 @@
 
-#### robo-one-guide(2026.09.14作成)  ![bra](pics/bra.png)
+#### robo-one-guide(2026.09.15作成)  ![bra](pics/bra.png)
 
 # 第45回ROBO-ONE 参加者ガイド
 
